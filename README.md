@@ -6,9 +6,8 @@ Bienvenue sur mon profil GitHub !
 Je m'appelle Mathieu, j'ai 27 ans et j'habite à Caen, en Normandie.
 
 D'une formation originale en Psychologie, j'ai décidé de me reconvertir en 2021 dans le développement informatique et j'ai rejoins l'école O'clock pour une formation Développeur Web et Web Mobile. 
-Cette formation terminée, j'enchaîne donc sur la formation en alternance de Concepteur-Développeur d'Application, toujours avec l'école O'clock car on ne change pas une équipe qui gagne ! 
 
-Je suis donc en **recherche active d'entreprise pour un contrat d'apprentissage.** Si jamais mon profil vous interesse ou vous souhaitez simplement en savoir plus sur moi, n'hésitez pas à me contacter sur [mon LinkedIn](https://www.linkedin.com/in/mathieu-massot-73034421a/)
+Je suis  en **recherche active d'entreprise pour un contrat d'apprentissage.** Si jamais mon profil vous interesse ou vous souhaitez simplement en savoir plus sur moi, n'hésitez pas à me contacter sur [mon LinkedIn](https://www.linkedin.com/in/mathieu-massot-73034421a/)
 
 
 ### Technologies
