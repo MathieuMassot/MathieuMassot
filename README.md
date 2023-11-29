@@ -3,7 +3,7 @@
 ### Présentation
 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Mathieu, j'ai 27 ans et j'habite à Caen, en Normandie.
+Je m'appelle Mathieu, j'ai 29 ans et j'habite à Caen, en Normandie.
 
 D'une formation originale en Psychologie, j'ai décidé de me reconvertir en 2021 dans le développement informatique et j'ai rejoins l'école O'clock pour une formation Développeur Web et Web Mobile. 
 
